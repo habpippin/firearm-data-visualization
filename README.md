@@ -21,13 +21,13 @@ click the "Export" button and select which format you would like to export them 
 All the outputs from these scripts can be accessed in the outputs folder. Some example outputs are shown below:
 
 **Lollipop Chart**
-
+!["lolliplot"](/outputs/lolliplot.pdf)
 
 **Circle Bar Chart**
-
+![](outputs/figure2_table3_plot2.pdf)
 
 **Hexbin Map**
-
+![](outputs/outputs/figure4_table2_plot.pdf)
 
 
 ## Contact
