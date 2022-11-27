@@ -20,14 +20,17 @@ click the "Export" button and select which format you would like to export them 
 ## Outputs
 All the outputs from these scripts can be accessed in the outputs folder. Some example outputs are shown below:
 
-**Lollipop Chart**
-!["lolliplot"](/outputs/lolliplot.pdf)
+#### Chloropleth Map
 
-**Circle Bar Chart**
-![](outputs/figure2_table3_plot2.pdf)
+<img src="outputs/fig1-state-reporting-type.png" style="width:550px;height:300px;">
 
-**Hexbin Map**
-![](outputs/outputs/figure4_table2_plot.pdf)
+#### Bar Chart
+
+<img src="outputs/fig2-event-reporting-nics.png" style="width:550px;height:300px;">
+
+#### Hexbin Map
+
+<img src="outputs/figure4_table2_plot.png" style="width:550px;height:350px;">
 
 
 ## Contact
