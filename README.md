@@ -1,5 +1,6 @@
 # Firearm Data Visualization
 Date created: May 4, 2021
+Last updated: November 26, 2022
 
 ## Description
 These are a series of scripts used to create different charts and data visualizations for a study at 
